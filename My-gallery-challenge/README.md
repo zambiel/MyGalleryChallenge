@@ -36,7 +36,6 @@ In the link in netlify
 nice but a little bit hard
 - What have you learned/improved?
 the CSS grid
-- Your wisdom? :)
 
 ### Built With
 
@@ -48,5 +47,5 @@ the CSS grid
 
 ## Contact
 
-- GitHub [@your-username](https://{github.com/zambiel})
+- GitHub [@zambiel](https://{github.com/zambiel})
 
